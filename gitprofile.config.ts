@@ -58,9 +58,10 @@ const CONFIG = {
   },
   social: {
     email: 'igaponenko404@gmail.com',
+    phone: '+971504202112',
     linkedin: 'igaponenko',
     github: 'igaponenko',
-    phone: '+971504202112',
+    twitter: 'igaponenko404',
   },
   resume: {
     fileUrl:
