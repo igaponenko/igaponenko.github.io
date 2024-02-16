@@ -80,7 +80,8 @@ const CONFIG = {
     'MariaDB',
     'MongoDB',
     'ARM Assembly',
-    'Linux'
+    'Linux',
+    'OCaml'
   ],
   // experiences: [
   //   {
