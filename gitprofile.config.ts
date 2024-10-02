@@ -65,7 +65,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://archive.org/details/ivan-gaponenko-cv', // Empty fileUrl will hide the `Download Resume` button.
+      'https://archive.org/details/ivan-gaponenko-cv_202410', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
