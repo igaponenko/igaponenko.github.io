@@ -58,14 +58,14 @@ const CONFIG = {
   },
   social: {
     email: 'igaponenko404@gmail.com',
-    phone: '+971504202112',
+    phone: '+447466441651',
     linkedin: 'igaponenko',
     github: 'igaponenko',
     twitter: 'igaponenko404',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://archive.org/details/ivan-gaponenko-cv', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
@@ -83,22 +83,15 @@ const CONFIG = {
     'Linux',
     'OCaml'
   ],
-  // experiences: [
-  //   {
-  //     company: 'Company Name',
-  //     position: 'Position',
-  //     from: 'September 2021',
-  //     to: 'Present',
-  //     companyLink: 'https://example.com',
-  //   },
-  //   {
-  //     company: 'Company Name',
-  //     position: 'Position',
-  //     from: 'July 2019',
-  //     to: 'August 2021',
-  //     companyLink: 'https://example.com',
-  //   },
-  // ],
+  experiences: [
+    {
+      company: 'Heriot-Watt University',
+      position: 'Computer Science Teaching Assistant',
+      from: 'September 2024',
+      to: 'Present',
+      companyLink: 'https://example.com',
+    },
+  ],
   // certifications: [
   //   {
   //     name: 'Lorem ipsum',
@@ -109,7 +102,7 @@ const CONFIG = {
   // ],
   educations: [
     {
-      institution: 'Heriot-Watt University Dubai',
+      institution: 'Heriot-Watt University',
       degree: 'BSc Software Engineering (Hons)',
       from: '2022',
       to: '2026',
