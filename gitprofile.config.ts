@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['igaponenko/Formula1_Bingo'], ['igaponenko/craigslist'], 
+        projects: ['igaponenko/craigslist'], ['igaponenko/craigslist'], 
         // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
