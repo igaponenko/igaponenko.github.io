@@ -90,7 +90,14 @@ const CONFIG = {
       position: 'Computer Science Teaching Assistant',
       from: 'September 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.hw.ac.uk/',
+    },
+    {
+      company: 'Galt',
+      position: 'Software Engineer Intern',
+      from: 'June 2024',
+      to: 'July 2024',
+      companyLink: 'https://www.galt.agency/',
     },
   ],
   // certifications: [
